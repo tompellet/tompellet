@@ -1,5 +1,7 @@
 # 💫 About Me:
-Je transforme des besoins concrets en solutions logicielles.<br>Logiciels de gestion, applications web, interfaces interactives, intégration 3D : j'aime autant résoudre des problèmes techniques que soigner le rendu visuel.
+Je transforme des besoins concrets en solutions logicielles.
+Logiciels de gestion, applications web, interfaces interactives, intégration 3D : j'aime autant résoudre des problèmes techniques que soigner le rendu visuel.
+Formé sur le terrain, je travaille avec l'IA au quotidien depuis 3 ans. Savoir bien l'utiliser, la guider et vérifier ce qu'elle produit fait partie intégrante de mes compétences.
 
 
 ## 🌐 Socials:
